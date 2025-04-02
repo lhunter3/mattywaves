@@ -4,7 +4,7 @@ function Hero() {
   return (
     <section
       className="relative w-full h-[80vh] flex flex-col justify-center items-center text-center bg-cover bg-center bg-no-repeat"
-      style={{ backgroundImage: "url('/images/hero-bg.png')" }}
+      style={{ backgroundImage: "url('public/images/hero-bg.png')" }}
     >
       {/* Overlay */}
       <div className="absolute inset-0 bg-black/50 z-0" />
