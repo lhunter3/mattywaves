@@ -7,6 +7,7 @@ import TourSection from '../components/TourSection';
 import MerchSection from '../components/MerchSection';
 import About from '../components/About';
 import Contact from '../components/Contact';
+import Footer from '../components/Footer';
 
 export function HomePage() {
   return (
@@ -40,8 +41,13 @@ export function HomePage() {
           <section id="contact" className="py-16">
             <Contact />
           </section>
+
+         
         </div>
       </main>
+      <footer>
+      <Footer/>
+      </footer>
     </div>
   );
 }

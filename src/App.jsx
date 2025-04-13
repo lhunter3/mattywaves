@@ -7,7 +7,7 @@ function App() {
   const [count, setCount] = useState(0)
 
   return (
-  <BrowserRouter basename='/mattywaves'>
+  <BrowserRouter basename='/'>
       <Routes>
           <Route index element={<HomePage />} />
     </Routes>

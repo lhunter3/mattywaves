@@ -1,6 +1,6 @@
 {
   "name": "mattywaves",
-  "homepage": "https://lucashunter.ca/mattywaves",
+  "homepage": "https://mattywaves.com",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -13,6 +13,7 @@
   "dependencies": {
     "@fortawesome/react-fontawesome": "^0.2.2",
     "@tailwindcss/vite": "^4.0.17",
+    "emailjs-com": "^3.2.0",
     "gh-pages": "^6.3.0",
     "keen-slider": "^6.8.6",
     "mattywaves": "file:",

@@ -47,7 +47,7 @@ function MusicSection() {
 
       <div className="rounded p-4">
         <audio controls className="w-full">
-          <source src="/placeholder.mp3" type="audio/mp3" />
+          <source src="/cuernos-teaser.mp3" type="audio/mp3" />
         </audio>
       </div>
 
@@ -65,7 +65,7 @@ function MusicSection() {
                 height="352"
                 frameBorder="0"
                 allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
-                loading="lazy"
+                loading="eager"
                 title={`Spotify Embed ${i}`}
               ></iframe>
             </div>
@@ -99,7 +99,7 @@ function MusicSection() {
               height="352"
               frameBorder="0"
               allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
-              loading="lazy"
+              loading="eager"
               title={`Spotify Embed ${i}`}
             ></iframe>
           </div>
