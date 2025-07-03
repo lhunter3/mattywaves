@@ -66,10 +66,12 @@ function Contact() {
             required
           >
             <option value="" disabled>Select a service</option>
-            <option value="dj">DJ</option>
-            <option value="photography">Photography</option>
+            <option value="rap-events">Rap Performances</option>
+            <option value="dj">DJ Performances</option>
             <option value="live-band">Live Band Events</option>
-            <option value="rap-events">Rap Events</option>
+            <option value="photography">Event Coordination</option>
+            
+            
           </select>
         </div>
 

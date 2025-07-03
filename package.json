@@ -8,7 +8,8 @@
     "dev": "vite",
     "build": "vite build",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist"
+    "deploy": "gh-pages -d dist",
+    "tst": "vite preview"
   },
   "dependencies": {
     "@fortawesome/react-fontawesome": "^0.2.2",

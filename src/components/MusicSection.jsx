@@ -2,9 +2,10 @@ import React, { useState, useEffect } from "react";
 import { useKeenSlider } from "keen-slider/react";
 import "keen-slider/keen-slider.min.css";
 
+
 const spotifyEmbeds = [
+  "https://open.spotify.com/embed/track/0y0VBgLFBNSXncfSV3v1Y0?utm_source=generator&theme=0",
   "https://open.spotify.com/embed/track/6bwSTSCOP2RYZA7MGfnxvb?utm_source=generator&theme=0",
-  "https://open.spotify.com/embed/track/0lHF3wtgnEATKJATrtaWFj?utm_source=generator&theme=0",
   "https://open.spotify.com/embed/album/0hP88hSNAiNipgtxYiqc0k?utm_source=generator&theme=0",
 ];
 

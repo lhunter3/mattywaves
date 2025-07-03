@@ -4,28 +4,28 @@ import React from "react";
 const tourDates = [
 
   {
-    date: "2025-05-12",
-    location: "Fredericton, CA",
+    date: "2025-07-05",
+    location: "The Front Yard @ Fredericton, NB",
     infoURL: "https://tickets.com/la-show",
   },
   {
-    date: "2024-05-12",
-    location: "Fredericton, CA",
+    date: "2025-08-02",
+    location: "The Cap @ Fredericton, NB",
     infoURL: "https://tickets.com/la-show",
   },
   {
     date: "2024-07-03",
-    location: "Fredericton, CA",
+    location: "Fredericton, NB",
     infoURL: "https://tickets.com/ny-show",
   },
   {
     date: "2023-11-22",
-    location: "Fredericton, CA",
+    location: "Fredericton, NB",
     infoURL: "https://tickets.com/chicago-show",
   },
   {
     date: "2024-09-10",
-    location: "Fredericton, CA",
+    location: "Fredericton, NB",
     infoURL: "https://tickets.com/austin-show",
   },
 ];
